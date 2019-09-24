@@ -5,7 +5,14 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/**
+ *Sample Input:
+ *
+ * 10 2
+ * Sample Output:
+ *
+ * 1
+ * */
 public class HugeFibonachi {
 
     public static void main(String[] args) throws IOException {

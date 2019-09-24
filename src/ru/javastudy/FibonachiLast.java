@@ -3,7 +3,14 @@ package ru.javastudy;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/**
+ * Sample Input:
+ *
+ * 696352
+ * Sample Output:
+ *
+ * 9
+ * */
 public class FibonachiLast {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
